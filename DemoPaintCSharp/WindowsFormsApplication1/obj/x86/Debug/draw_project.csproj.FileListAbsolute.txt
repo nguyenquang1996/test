@@ -1,0 +1,44 @@
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\lvdinh\Documents\Visual Studio 2010\Projects\draw_poject2\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csproj.GenerateResource.Cache
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csprojResolveAssemblyReference.cache
+D:\backup\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csprojResolveAssemblyReference.cache
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\lvdinh\Dropbox\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csproj.GenerateResource.Cache
+D:\lvdinh\Visual Studio 2012\Projects\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\lvdinh\Visual Studio 2012\Projects\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\lvdinh\Visual Studio 2012\Projects\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csprojResolveAssemblyReference.cache
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csproj.GenerateResource.Cache
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\draw_project.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Quang\Downloads\Compressed\draw_poject_ribbon_finally-20161128T170251Z\draw_poject_ribbon_finally\draw_poject_ribbon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

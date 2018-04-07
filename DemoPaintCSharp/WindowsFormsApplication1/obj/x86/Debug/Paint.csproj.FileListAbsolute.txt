@@ -1,0 +1,10 @@
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\obj\x86\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Quang\Desktop\DemoPaintCSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "WindowsFormsApplication1\Paint.csproj", "{7400B83C-3585-4015-AF82-2514840CC086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7400B83C-3585-4015-AF82-2514840CC086}.CD_ROM|x86.ActiveCfg = Release|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.CD_ROM|x86.Build.0 = Release|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.Debug|x86.ActiveCfg = Debug|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.Debug|x86.Build.0 = Debug|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.DVD-5|x86.ActiveCfg = Debug|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.DVD-5|x86.Build.0 = Debug|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.Release|x86.ActiveCfg = Release|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.Release|x86.Build.0 = Release|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.SingleImage|x86.ActiveCfg = Release|x86
+		{7400B83C-3585-4015-AF82-2514840CC086}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8EB842-3B74-42E0-BD9B-0F4AFD5376DB}
+	EndGlobalSection
+EndGlobal
